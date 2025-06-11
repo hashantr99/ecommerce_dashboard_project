@@ -98,9 +98,11 @@ A modern, responsive web application for managing e-commerce products, built wit
        './src/components/ui/**/*.{js,ts,jsx,tsx}',
      ]
      ```
-   - Confirm `index.css` imports `react-toastify` CSS:
+   - Confirm `index.css` imports `react-toastify`, `tailwind` CSS:
      ```css
+     @import "tailwindcss";
      @import 'react-toastify/dist/ReactToastify.css';
+     @import "tw-animate-css";
      ```
 
 ## Running the Application
