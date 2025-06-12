@@ -3,6 +3,8 @@
 
 A modern, responsive web application for managing e-commerce products, built with React, TypeScript, Vite, and Tailwind CSS. The dashboard allows users to add, edit, delete, search, and filter products, with local storage persistence and a dedicated bulk delete feature.
 
+For a detailed overview of the architectural decisions, code structure, and key components of the E-Commerce Product Dashboard visit ARCHITECTURE.md
+
 ## Table of Contents
 
 - [Features](#features)
@@ -11,7 +13,6 @@ A modern, responsive web application for managing e-commerce products, built wit
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
